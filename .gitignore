@@ -1,0 +1,10 @@
+yarn-error.log
+node_modules/
+coverage/
+artifacts/
+/dist
+npm-debug.log
+tmp/
+# Release Files
+# Comment next line if you want to commit compiled files
+dist
